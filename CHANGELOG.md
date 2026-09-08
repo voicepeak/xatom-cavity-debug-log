@@ -25,3 +25,9 @@
 - 默认减到 5 万面，适配 FDM
 - 输出 `Hy3D_textured_00006_print50k`
 - 文档：`04-print-50k.md`
+
+## 2026-09-08 16s → 11.5s
+
+- 跳过二次修网格、空壳诊断；选面收到 16 点
+- 输出 `Hy3D_textured_00006_print50k_fast`
+- 文档：`05-speed-11s.md`
