@@ -36,3 +36,9 @@
 
 - 模型 `deepseek-v4-flash-vision-exp`，`--vision-mode always`
 - 文档：`06-vision-setup.md`
+
+## 2026-09-08 第一次视觉跑偏
+
+- 50k 网格被 PCA 拧 82°，视觉抄示例坐标
+- 开孔落到 `(8.0, 44.7)`，不是上背
+- 文档：`07-vision-wrong.md`
