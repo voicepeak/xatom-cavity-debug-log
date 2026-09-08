@@ -31,3 +31,8 @@
 - 跳过二次修网格、空壳诊断；选面收到 16 点
 - 输出 `Hy3D_textured_00006_print50k_fast`
 - 文档：`05-speed-11s.md`
+
+## 2026-09-08 接入 DeepSeek 视觉
+
+- 模型 `deepseek-v4-flash-vision-exp`，`--vision-mode always`
+- 文档：`06-vision-setup.md`
